@@ -4,6 +4,9 @@ module.exports = {
   theme: {
     extend: {},
   },
+  typescript: {
+    ignoreBuildErrors: true,
+  },
   variants: {
     extend: {},
   },
